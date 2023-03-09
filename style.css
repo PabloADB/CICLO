@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+
+  html {
+    background: url(Fondo1.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    
+  .corredor {
+    width: 60px;
+    height: 60px;
+    background: url('MarioA.png') no-repeat 0 0;
+    position: absolute;
+    bottom: 0;
+  }
